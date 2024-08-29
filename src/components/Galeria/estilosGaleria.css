@@ -1,0 +1,32 @@
+.divSuperiorGaleria{
+    margin-top: 50px;
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #000000ce;
+}
+.imagenGaleria{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 5%;
+}
+.divBotonInicio{
+    display: flex;
+    width: 200px;
+    margin-left: 50px;
+    justify-content: center;
+}.botonInicio{
+    background-color: transparent;
+    height: 70px;
+    width: 150px;
+    box-shadow: 1px 1px 15px 1px #000000;
+    border-color: #000000;
+    border-radius: 20px;
+    font-size: 18px;
+}.botonInicio:hover{
+    transform: scale(1.04);
+    transition: 0.25s;
+}
