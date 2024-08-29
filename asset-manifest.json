@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SrPaPau/Blog/static/css/main.050dc98a.css",
+    "main.js": "/SrPaPau/Blog/static/js/main.ee1fcb94.js",
+    "static/js/453.32c46953.chunk.js": "/SrPaPau/Blog/static/js/453.32c46953.chunk.js",
+    "static/media/instagram.svg": "/SrPaPau/Blog/static/media/instagram.448198b22019bf2f0b71355b8346c675.svg",
+    "index.html": "/SrPaPau/Blog/index.html",
+    "static/media/twitter-x.svg": "/SrPaPau/Blog/static/media/twitter-x.59f61548d71b77b5144f030f0b705a72.svg",
+    "main.050dc98a.css.map": "/SrPaPau/Blog/static/css/main.050dc98a.css.map",
+    "main.ee1fcb94.js.map": "/SrPaPau/Blog/static/js/main.ee1fcb94.js.map",
+    "453.32c46953.chunk.js.map": "/SrPaPau/Blog/static/js/453.32c46953.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.050dc98a.css",
+    "static/js/main.ee1fcb94.js"
+  ]
+}
