@@ -1,7 +1,7 @@
 {
   "name": "Blog",
   "version": "0.1.0",
-  "homepage": "https://srpapau.github.io/Blog",
+  "homepage": "https://srpapau.github.io/Blog/build",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"
   }
 }
